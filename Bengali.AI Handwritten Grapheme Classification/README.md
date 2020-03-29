@@ -4,5 +4,5 @@ For this competition, I was given the image of a handwritten Bengali grapheme an
 
 ### The link for the competition: https://www.kaggle.com/c/bengaliai-cv19
 
-### Result- rank 112/2059(top 6%)
+### Result- rank 112/2059(top 6%) (All works are done by myself)
 

@@ -6,11 +6,6 @@ import numpy as np
 
 class GridMask(DualTransform):
     """GridMask augmentation for image classification and object detection.
-
-    Author: Qishen Ha
-    Email: haqishen@gmail.com
-    2020/01/29
-
     Args:
         num_grid (int): number of grid in a row or column.
         fill_value (int, float, lisf of int, list of float): value for dropped pixels.
@@ -20,13 +15,6 @@ class GridMask(DualTransform):
             0 - cropout a quarter of the square of each grid (left top)
             1 - reserve a quarter of the square of each grid (left top)
             2 - cropout 2 quarter of the square of each grid (left top & right bottom)
-
-    Targets:
-        image, mask
-
-    Image types:
-        uint8, float32
-
     Reference:
     |  https://arxiv.org/abs/2001.04086
     |  https://github.com/akuxcw/GridMask

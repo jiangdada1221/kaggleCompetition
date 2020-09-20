@@ -1,11 +1,11 @@
 ## Bengali.AI Handwritten Grapheme Classification
-  A Bengali character in this the competition dataset may has 168 different grapheme root, 11 vowels and 7 consonant.
-For this competition, I was given the image of a handwritten Bengali grapheme and are challenged to separately classify three constituent elements in the image: grapheme root, vowel diacritics, and consonant diacritics.
-
-
+  A Bengali character has a grapheme root, a vowel and a consonant. The overall goal of this competition is to recognize the root, vowel, and consonant of a given Bengali character image. Information and dataset could be found in https://www.kaggle.com/c/bengaliai-cv19
 <div align=center><img src="https://github.com/jiangdada1221/kaggleCompetition/blob/master/Bengali.AI%20Handwritten%20Grapheme%20Classification/information/Xnip2020-04-13_13-42-56.jpg?raw=true" width = "500" height = "400"/></div>
 
-### The link for the competition: https://www.kaggle.com/c/bengaliai-cv19
+### Dataset
+There are around 20,000 images of Bengali character with labels for training. <\b> There is about the same number of images of Bengali character for testing and they are held by the owner of this competition.
+
+
 
 ### Result- rank 112/2059(top 6%) (Solo work)
 https://www.kaggle.com/yuepengjiang

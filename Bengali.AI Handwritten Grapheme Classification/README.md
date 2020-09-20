@@ -21,4 +21,5 @@ At last, I ranked 112/2059 (top 6%)
 
 ### File description
 utils.py : Codes for grid mask data augmentation; Codes for making the generators of the data for training and evaluation. <br />
-train.py : Codes for the model; Codes for the training process.
+train.py : Codes for the model; Codes for the training process. <br />
+dataPrepare.py : Codes for converting the original data (in .parquet format) into images.

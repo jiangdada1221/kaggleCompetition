@@ -19,4 +19,6 @@ https://example-batch.s3-us-west-1.amazonaws.com/Xnip2020-09-19_22-45-14.jpg <br
 This competition was done all by myself. <br />
 At last, I ranked 112/2059 (top 6%)
 
-
+### File description
+utils.py : Codes for grid mask data augmentation; Codes for making the generators of the data for training and evaluation. <br />
+train.py : Codes for the model; Codes for the training process.

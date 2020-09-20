@@ -3,7 +3,7 @@
 <div align=center><img src="https://github.com/jiangdada1221/kaggleCompetition/blob/master/Bengali.AI%20Handwritten%20Grapheme%20Classification/information/Xnip2020-04-13_13-42-56.jpg?raw=true" width = "300" height = "300"/></div> <br />
 
 ### Dataset
-There are around 20,000 images of Bengali character with labels for training. <br /> There is about the same number of images of Bengali character for testing and they are held by the owner of this competition.
+There are around 200,000 images of Bengali character with labels for training. <br /> There is about the same number of images of Bengali character for testing and they are held by the owner of this competition.
 
 ### Method
 Due to the similarity of the three tasks - predictions of root, vowel, consonant , I built a multi-task-learning(MTL) model. <br />

@@ -3,7 +3,7 @@
 <div align=center><img src="https://github.com/jiangdada1221/kaggleCompetition/blob/master/Bengali.AI%20Handwritten%20Grapheme%20Classification/information/Xnip2020-04-13_13-42-56.jpg?raw=true" width = "500" height = "400"/></div>
 
 ### Dataset
-There are around 20,000 images of Bengali character with labels for training. <\b> There is about the same number of images of Bengali character for testing and they are held by the owner of this competition.
+There are around 20,000 images of Bengali character with labels for training. \ There is about the same number of images of Bengali character for testing and they are held by the owner of this competition.
 
 
 

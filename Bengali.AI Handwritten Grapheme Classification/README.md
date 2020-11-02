@@ -13,7 +13,6 @@ The input image is first processed by a Convolutional Neural Network(CNN) model.
 The base bone CNN model was the EfficientNet https://www.kaggle.com/c/bengaliai-cv19. <br />
 Besides, I applied the newly proposed method of data augmentation - GridMask. https://arxiv.org/abs/2001.04086. It's a good data augmentation strategy for image classification. <br /> <br />
 With some hyperparameters tuning based on the evaluation of the validation dataset (20% of the total training data), I trained a final MTL model, which had a good performance.
-https://example-batch.s3-us-west-1.amazonaws.com/Xnip2020-09-19_22-45-14.jpg <br />
 
 ### Result
 This competition was done all by myself. <br />
